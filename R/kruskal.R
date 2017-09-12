@@ -1,4 +1,4 @@
-#'Kruskal-Wallis differential expression analysis
+#'Kruskal-Wallis differential abundance  analysis
 #'
 #'This function finds the features that are significantly 
 #'differentially abundant  in the provided taxa abundance data under different conditions 

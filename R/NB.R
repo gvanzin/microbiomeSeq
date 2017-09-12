@@ -1,4 +1,4 @@
-#'Differential expression analysis
+#'Differential abundance analysis
 #'
 #'This function finds the features that are significantly differentially abundant in the provided data, 
 #'using DESeq implementation which models taxa abundance as a negative binomial distribution. See \link[DESeq2]{DESeq}  for more details. The significance 

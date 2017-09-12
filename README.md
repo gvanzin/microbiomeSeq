@@ -8,7 +8,7 @@ whole genome short gun sequencing studies.
 #### **Main Features**
 
 * Alpha and Beta diversity
-* Differential expression analysis.
+* Differential abundance analysis.
 * Effects of environmental variables on community structure.
 * Co-occurence pattern analysis in community data.
 
